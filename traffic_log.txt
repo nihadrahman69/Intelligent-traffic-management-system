@@ -1,0 +1,36 @@
+Thu Apr 17 18:16:23 BDT 2025: Signal at Highway-1 changed to Red
+Thu Apr 17 18:16:23 BDT 2025: Signal at City Center changed to Green
+Thu Apr 17 18:25:03 BDT 2025: Signal at City Center changed to Red
+Thu Apr 17 18:25:24 BDT 2025: Signal at City Center changed to Red
+Thu Apr 17 18:25:42 BDT 2025: Signal at Highway-1 changed to yellow
+Thu Apr 17 18:25:51 BDT 2025: Signal at City Center changed to Green
+Thu Apr 17 18:25:58 BDT 2025: Signal at Highway-1 changed to Red
+Thu Apr 17 18:25:58 BDT 2025: Signal at City Center changed to Red
+Thu Apr 17 18:26:06 BDT 2025: Signal at Highway-1 changed to Green
+Thu Apr 17 18:26:06 BDT 2025: Signal at City Center changed to Red
+Thu Apr 17 18:33:04 BDT 2025: Signal at Mirpur changed to Green
+Thu Apr 17 18:33:20 BDT 2025: Signal at Dhanmondi changed to Green
+Thu Apr 17 18:33:37 BDT 2025: Signal at Mirpur changed to Green
+Thu Apr 17 18:34:00 BDT 2025: Signal at Mirpur changed to Green
+Thu Apr 17 18:34:14 BDT 2025: Signal at Mirpur changed to Green
+Thu Apr 17 18:34:30 BDT 2025: Signal at Farmgate changed to red
+Thu Apr 17 18:34:44 BDT 2025: Signal at Farmgate changed to Green
+Thu Apr 17 18:34:50 BDT 2025: Signal at Mirpur changed to Red
+Thu Apr 17 18:34:50 BDT 2025: Signal at Dhanmondi changed to Green
+Thu Apr 17 18:34:50 BDT 2025: Signal at Farmgate changed to Red
+Thu Apr 17 18:34:50 BDT 2025: Signal at Gulshan changed to Red
+Thu Apr 17 18:34:50 BDT 2025: Signal at Basundhara changed to Red
+Thu Apr 17 18:35:02 BDT 2025: Signal at Mirpur changed to Red
+Thu Apr 17 18:35:02 BDT 2025: Signal at Dhanmondi changed to Green
+Thu Apr 17 18:35:02 BDT 2025: Signal at Farmgate changed to Red
+Thu Apr 17 18:35:02 BDT 2025: Signal at Gulshan changed to Green
+Thu Apr 17 18:35:02 BDT 2025: Signal at Basundhara changed to Red
+Thu Apr 17 18:53:00 BDT 2025: Signal at Mirpur 10 changed to Green
+Thu Apr 17 18:53:16 BDT 2025: Signal at Mirpur 10 changed to Red
+Thu Apr 17 18:53:43 BDT 2025: Signal at Dhanmondi 27 changed to yellow
+Thu Apr 17 18:53:54 BDT 2025: Signal at Green road changed to Green
+Thu Apr 17 18:53:58 BDT 2025: Signal at Mirpur 10 changed to Red
+Thu Apr 17 18:53:58 BDT 2025: Signal at Dhanmondi 27 changed to Red
+Thu Apr 17 18:53:58 BDT 2025: Signal at Green road changed to Green
+Thu Apr 17 18:53:58 BDT 2025: Signal at Gulshan 1 changed to Green
+Thu Apr 17 18:53:58 BDT 2025: Signal at Aftabnagar changed to Green
