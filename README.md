@@ -1,4 +1,4 @@
-# Interactive Traffic Control System
+# Intelligent Traffic Control System
 
 A Java-based console application that simulates an intelligent traffic light management system for urban intersections. It allows real-time signal monitoring, manual control, emergency vehicle prioritization, and sensor-based traffic simulation.
 
